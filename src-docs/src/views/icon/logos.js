@@ -31,6 +31,7 @@ export const iconTypes = [
   'logoObservability',
   'logoSecurity',
   'logoSiteSearch',
+  'logoUltrasonic71',
   'logoUptime',
   'logoWorkplaceSearch',
 ];

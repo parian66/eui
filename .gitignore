@@ -27,3 +27,7 @@ yarn-error.log
 # typescript output
 types/
 eui.d.ts
+package
+
+# exclude archive
+*.tgz

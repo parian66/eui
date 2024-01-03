@@ -248,6 +248,7 @@ const typeToPathMap = {
   logoSiteSearch: 'logo_site_search',
   logoSketch: 'logo_sketch',
   logoSlack: 'logo_slack',
+  logoUltrasonic71: 'logo_ultrasonic71',
   logoUptime: 'logo_uptime',
   logoWebhook: 'logo_webhook',
   logoWindows: 'logo_windows',
